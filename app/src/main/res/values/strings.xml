@@ -1,0 +1,8 @@
+<resources>
+    <string name="sign_out">Sign Out</string>
+    <string name="app_name">My Application</string>
+    <string name="details_button_text">Details</string>
+    <string name="user_name">User Name</string>
+    <string name="action_logout">Logout</string>
+
+</resources>
